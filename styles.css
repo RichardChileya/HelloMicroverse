@@ -1,4 +1,5 @@
-.header{
-    color: blue;
-    text-align: center;
+.header {
+  display: flex;
+  color: blue;
+  text-align: center;
 }

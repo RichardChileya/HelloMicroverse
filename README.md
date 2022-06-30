@@ -7,13 +7,13 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
+- HTML and CSS
+- Visual Studio Code -Electron framework
 - Technologies used
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+live Demo is currently unavailable
 
 
 ## Getting Started
