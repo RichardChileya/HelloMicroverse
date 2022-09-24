@@ -2,4 +2,15 @@
   display: flex;
   color: blue;
   text-align: center;
+  justify-content: space-between;
 }
+
+.nav-list { 
+  display: flex;
+  gap: 5px;
+}
+
+li {
+  list-style: none;
+}
+
